@@ -1,0 +1,1 @@
+export const BRANCH_URL = '/api/branch'
